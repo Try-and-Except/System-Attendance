@@ -1,8 +1,9 @@
 # System-Attendance
 
+# Main Screen
 ![Screenshot 2024-02-09 142409](https://github.com/Try-and-Except/System-Attendance/assets/158096018/89378365-ec72-4e3f-b576-aab963421656)
 
-
+# Tracking&recognition Your Face 
 ![Screenshot 2024-02-08 212941](https://github.com/Try-and-Except/System-Attendance/assets/158096018/e250f4a7-c6f1-4e88-a4be-ab3430b6f61e)
 
 ![Screenshot 2024-02-08 213005](https://github.com/Try-and-Except/System-Attendance/assets/158096018/7e80548a-60ce-43ec-a62b-173a29c95d52)
