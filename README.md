@@ -24,6 +24,8 @@
 
 ![Screenshot 2024-02-09 150701](https://github.com/Try-and-Except/System-Attendance/assets/158096018/eb1970f2-d990-4a97-9694-ffb01ebee402)
 
+![Screenshot 2024-02-08 213734](https://github.com/Try-and-Except/System-Attendance/assets/158096018/c449bf92-32cc-431f-a3a5-057fb5c4e5fd)
+
 ![Screenshot 2024-02-08 213342](https://github.com/Try-and-Except/System-Attendance/assets/158096018/4feb61a5-88bf-4c6a-8903-384f7691c8ee)
 
 ![Screenshot 2024-02-08 214605](https://github.com/Try-and-Except/System-Attendance/assets/158096018/d2362c70-4e43-499d-ae65-bfb391391a04)
