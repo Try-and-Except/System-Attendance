@@ -17,7 +17,8 @@
 
 ![Screenshot 2024-02-08 213429](https://github.com/Try-and-Except/System-Attendance/assets/158096018/04560210-370f-4021-90f3-6d082ddaa8dd)
 
-![Screenshot 2024-02-08 212731](https://github.com/Try-and-Except/System-Attendance/assets/158096018/95981b12-687d-4095-ad87-ccccdd1d0d7e)
+# Admin Pages
+![7](https://github.com/Try-and-Except/System-Attendance/assets/158096018/9e72e0d7-0635-4f54-8786-f1a1eba56738)
 
 ![Screenshot 2024-02-08 213940](https://github.com/Try-and-Except/System-Attendance/assets/158096018/4f2083a4-b05a-47b1-85b3-9a6a4bfa3be2)
 
@@ -25,6 +26,7 @@
 
 ![Screenshot 2024-02-09 150701](https://github.com/Try-and-Except/System-Attendance/assets/158096018/eb1970f2-d990-4a97-9694-ffb01ebee402)
 
+# Login Page
 ![Screenshot 2024-02-08 213734](https://github.com/Try-and-Except/System-Attendance/assets/158096018/c449bf92-32cc-431f-a3a5-057fb5c4e5fd)
 
 ![Screenshot 2024-02-08 213342](https://github.com/Try-and-Except/System-Attendance/assets/158096018/4feb61a5-88bf-4c6a-8903-384f7691c8ee)
