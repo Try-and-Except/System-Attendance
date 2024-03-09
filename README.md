@@ -35,6 +35,9 @@
 
 ![Screenshot 2024-03-08 201142](https://github.com/Try-and-Except/System-Attendance/assets/158096018/4f7750d1-ec6e-44f8-bdcd-50f8276a607f)
 
+![Screenshot 2024-03-08 201534](https://github.com/Try-and-Except/System-Attendance/assets/158096018/117fb91e-5374-4513-bba0-7f6ce09bf52b)
+
+
 
 # Login Page
 ![Screenshot 2024-02-08 213342](https://github.com/Try-and-Except/System-Attendance/assets/158096018/4feb61a5-88bf-4c6a-8903-384f7691c8ee)
